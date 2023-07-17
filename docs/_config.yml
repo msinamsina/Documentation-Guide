@@ -4,9 +4,9 @@ theme: just-the-docs
 
 url: https://msina.me
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+# aux_links:
+#   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
 aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/just-the-docs/just-the-docs"
+  "GitHub":
+    - "//github.com/msinamsina/Documentation-Guide"
