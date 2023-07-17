@@ -2,7 +2,6 @@
 title: Home
 layout: home
 nav_order: 1
-food: Pizza
 ---
 
 <h1>{{ page.food }}</h1>
