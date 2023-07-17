@@ -10,3 +10,5 @@ url: https://msina.me
 aux_links:
   "GitHub":
     - "//github.com/msinamsina/Documentation-Guide"
+
+enable_copy_code_button: true
