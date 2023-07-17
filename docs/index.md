@@ -2,6 +2,15 @@
 title: Home
 layout: home
 ---
+## Color scheme
+
+```yaml
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
+```
+
+<button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
+
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
